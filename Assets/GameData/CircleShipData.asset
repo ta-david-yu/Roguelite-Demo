@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e0175db6e087404cb7f156c10b02cf6, type: 3}
+  m_Name: CircleShipData
+  m_EditorClassIdentifier: 
+  m_Name: CircleShip
+  m_PilotPortrait: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShipInstancePrefab: {fileID: 517919252228861970, guid: 01fcfc92c9d4be240864c53a176edde7,
+    type: 3}

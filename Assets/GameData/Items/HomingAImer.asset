@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cfb5d1ed4b4a02439ff447d76c30ce5, type: 3}
+  m_Name: HomingAImer
+  m_EditorClassIdentifier: 
+  m_ItemSprite: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  m_ItemPickupInstancePrefab: {fileID: 0}
+  m_ProjectileAttributes:
+  - {fileID: 11400000, guid: f9c365ccdcb319e4ea3aaee5c02179b4, type: 2}
+  - {fileID: 11400000, guid: 0be2d29ef15fb3e40a1cee10a6d173bd, type: 2}
